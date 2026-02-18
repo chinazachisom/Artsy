@@ -1,5 +1,5 @@
 # Artsy
-An online market place for art products wherby individuals can sell their art products
+An online market place for art products wherby individuals can sell their art products.
 
 <br>
 
@@ -44,9 +44,7 @@ Learnt a lot of concepts building this platform. Such as;
 
 <br>
 
-## Video Demo
+## Image/Video Demo
 
-<video width="100%" controls>
-  <source src="path-to-your-video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo Image Example](new%20github%20profile.png)
+
